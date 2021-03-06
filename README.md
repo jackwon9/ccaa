@@ -1,3 +1,5 @@
+复制项目，修改配置供私人使用
+
 # CCAA
 
 原为`CentOS + Caddy + AriaNg + Aria2`，故命名为CCAA，不过现在不仅仅支持CentOS，主流的Debian、Ubuntu也已经支持，自2.0版本已移除Caddy，改用Golang写了一个简单的webserver来运行AriaNg
