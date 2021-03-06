@@ -1,7 +1,7 @@
 #!/bin/bash
 #####	一键安装File Browser + Aria2 + AriaNg		#####
-#####	作者：xiaoz.me						#####
-#####	更新时间：2020-02-27				#####
+#####	原作者：xiaoz.me						#####
+#####	更新时间：2021-3-6				#####
 
 #导入环境变量
 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/bin:/sbin
@@ -57,7 +57,7 @@ function install_aria2(){
 	#进入临时目录
 	cd ./ccaa_tmp
 	#yum -y update
-	#安装aria2静态编译版本，来源于https://github.com/q3aql/aria2-static-builds/
+	#安装aria2静态编译版本，来源于https://github.com/aria2/aria2
 	wget -c ${aria2_url}
 	tar aria2-1.35.0.tar.bz2
 	cd aria2-1.35.0
