@@ -16,7 +16,7 @@ if [ $1 = 'cdn' ]
 	ccaa_web_url='http://soft.xiaoz.top/linux/ccaa_web.tar.gz'
 	else
 	aria2_url='https://github.com/aria2/aria2/releases/download/release-1.35.0/aria2-1.35.0.tar.bz2'
-	filebrowser_url='https://github.com/filebrowser/filebrowser/releases/download/v2.12.0/linux-amd64-filebrowser.tar.gz'
+	filebrowser_url='https://github.com/filebrowser/filebrowser/releases/download/v2.14.1/linux-amd64-filebrowser.tar.gz'
 	master_url='https://github.com/helloxz/ccaa/archive/master.zip'
 	ccaa_web_url='http://soft.xiaoz.org/linux/ccaa_web.tar.gz'
 fi
