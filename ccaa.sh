@@ -1,7 +1,7 @@
 #!/bin/bash
 #####	一键安装File Browser + Aria2 + AriaNg		#####
 #####	原作者：xiaoz.me						#####
-#####	更新时间：2021-3-6				#####
+#####	更新时间：2021-3-29				#####
 
 #导入环境变量
 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/bin:/sbin
